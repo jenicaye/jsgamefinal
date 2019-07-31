@@ -122,6 +122,17 @@ tr {
 	padding: 0 0;
 	margin: 0 0;
 }
+.blackTilenumInput {
+	background-color: #313639;
+	width: 10px;
+	border-style: none;
+	/*border-collapse: collapse;*/
+	border: none;
+	border-color: transparent;
+	text-transform: uppercase;
+	padding: 0 0;
+	margin: 0 0;
+}
 
 .num{
 	font-size: 10px;
